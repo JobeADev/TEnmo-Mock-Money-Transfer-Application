@@ -4,9 +4,13 @@ Paired-programmed second capstone project.
 
 ## Features
 
+### Registration
+
 Register a new account, and login with credentials.
 
 ![Tenmo 1](https://github.com/user-attachments/assets/7f851167-5fe4-4141-89e3-bddd696814b1)
+
+### Balance and Transaction information
 
 Check current balance (defaults to $1000) and check past transactions.
 
@@ -26,10 +30,10 @@ Check pending transactions and approve or deny them, selected by id.
 
 ![Tenmo 9](https://github.com/user-attachments/assets/96ade4f9-6797-455f-9c32-02c7da41b107)
 
-Send TE Bucks (mock money/application's currency)
+### Transfer Options
+
+Send TE Bucks (mock money/application's currency), or request TE Bucks 
 
 ![Tenmo 3](https://github.com/user-attachments/assets/04226fd4-00a8-46c3-886f-7f439a21e966)
-
-Request TE Bucks
 
 ![Tenmo 4](https://github.com/user-attachments/assets/8c2ebb05-dd95-4920-95c5-f310cb3a206a)
